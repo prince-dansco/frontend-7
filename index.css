@@ -7,7 +7,7 @@
 }
 
 body {
-    padding: 35px;
+    padding: 45px;
     background-color: hsl(233, 47%, 7%);
     width: 80%;
 }
@@ -81,6 +81,8 @@ span {
         width: 100%;
         align-items: center;
         justify-content: center;
+        margin: 0 auto;
+        padding-top: 75px;
     }
 
     .sub-main {
